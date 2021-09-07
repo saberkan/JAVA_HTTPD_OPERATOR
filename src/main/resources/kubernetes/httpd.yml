@@ -1,0 +1,6 @@
+apiVersion: "httpd.saberkan.io/v1alpha1"
+kind: Httpd
+metadata:
+  name: myhttpd
+spec:
+  replicas: 1
